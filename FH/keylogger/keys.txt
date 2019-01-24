@@ -1,0 +1,1 @@
+nn hola kaan [enter (down)]  [enter (up)] hola k [backspace (down)]  [backspace (up)] joan [ctrl (down)]  [ctrl (up)] c [ctrl (down)] 

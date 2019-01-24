@@ -1,0 +1,11 @@
+import datetime 
+
+
+now = datetime.datetime.now();
+
+    if now.hour != 8 or now.hour != 9 or now.hour != 10:
+        print("Not this time")
+    else:
+
+
+dddddddd
